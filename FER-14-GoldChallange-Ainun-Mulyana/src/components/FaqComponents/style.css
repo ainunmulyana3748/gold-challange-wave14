@@ -1,0 +1,7 @@
+@media (max-width: 992px) {
+  .faq {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+}

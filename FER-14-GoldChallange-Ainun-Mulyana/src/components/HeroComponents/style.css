@@ -1,0 +1,17 @@
+.btn-sewa-mobil {
+  width: 180px;
+  font-weight: 500;
+  background-color: #5cb85f;
+  color: #fff;
+  text-decoration: none;
+  padding: 8px 12px 8px 12px;
+}
+
+.heroComponents {
+  background-color: #f1f3ff !important;
+}
+
+/* @media screen(min-width: 768px) {
+  .imgCar {
+  }
+} */
